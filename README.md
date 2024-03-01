@@ -40,5 +40,6 @@
 
 </div>
 
+ <br/>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kwangmoyang&theme=dark&column=6)](https://github.com/kwangmoyang/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwangmoyang&theme=tokyonight)](https://git.io/streak-stats)
