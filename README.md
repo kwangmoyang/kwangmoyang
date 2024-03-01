@@ -41,4 +41,4 @@
 </div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=kwangmoyang&theme=flat&column=7)](https://github.com/kwangmoyang/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kwangmoyang&theme=dark&column=6)](https://github.com/kwangmoyang/)
