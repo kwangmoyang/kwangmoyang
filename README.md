@@ -2,14 +2,14 @@
 
 ![hikarigit](https://github.com/kwangmoyang/kwangmoyang/assets/100852794/71ca0b6f-291e-4990-9137-abb662469ad1)
 
-![Hikari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwangmoyang&theme=merko&show_icons=true)
+
 ####  :wave: Welcome my github profile !
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwangmoyang&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kwangmoyang&theme=tokyonight&show_icons=true" width="50%" />
 </a>
   
  <br/>
