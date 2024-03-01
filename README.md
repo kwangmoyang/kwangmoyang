@@ -14,7 +14,7 @@
   
  <br/>
  <br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwangmoyang&theme=tokyonight)](https://git.io/streak-stats)
+
 ####  :clipboard: Once I've Used 
   
  <br/>
@@ -37,7 +37,7 @@
 
  
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwangmoyang&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
