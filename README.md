@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&text=Hikari%20Github&animation=&fontColor=000000&fontSize=70" />
+    ![hikarigit](https://github.com/kwangmoyang/kwangmoyang/assets/100852794/71ca0b6f-291e-4990-9137-abb662469ad1)
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> hello </h2>  
