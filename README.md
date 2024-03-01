@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+HIKARI's+GitHub!👋)](https://git.io/typing-svg)
- 
+<div align="center">
+  <img src="https://github.com/kwangmoyang/kwangmoyang/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
+</div>
 <div align="left">
 
 -------
