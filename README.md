@@ -14,7 +14,7 @@
   
  <br/>
  <br/>
-  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=kwangmoyang&theme=flat&column=7)](https://github.com/kwangmoyang/)
 ####  :clipboard: Once I've Used 
   
  <br/>
