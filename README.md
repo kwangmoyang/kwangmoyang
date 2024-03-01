@@ -11,10 +11,13 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwangmoyang&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
 </a>
-  
+
+
  <br/>
  <br/>
 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwangmoyang&theme=nord_dark)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwangmoyang&theme=tokyonight)](https://git.io/streak-stats)
 ####  :clipboard: Once I've Used 
   
  <br/>
@@ -35,10 +38,10 @@
    <br/>
 
 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwangmoyang&theme=nord_dark)
+ 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwangmoyang&theme=tokyonight)](https://git.io/streak-stats)
+
 </div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
