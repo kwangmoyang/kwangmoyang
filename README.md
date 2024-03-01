@@ -16,7 +16,7 @@
  <br/>
 
 ####  :clipboard: Once I've Used 
-  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwangmoyang&theme=tokyonight)](https://git.io/streak-stats)
  <br/>
   
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -42,4 +42,4 @@
 
  <br/>
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwangmoyang&theme=tokyonight)](https://git.io/streak-stats)
+
