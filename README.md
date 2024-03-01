@@ -35,7 +35,8 @@
    <br/>
 
 
- 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kwangmoyang&theme=nord_dark)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kwangmoyang&theme=tokyonight)](https://git.io/streak-stats)
 </div>
