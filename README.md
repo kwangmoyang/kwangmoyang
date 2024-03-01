@@ -1,7 +1,8 @@
 <div align="center"> 
 
 ![hikarigit](https://github.com/kwangmoyang/kwangmoyang/assets/100852794/71ca0b6f-291e-4990-9137-abb662469ad1)
-  
+
+![Hikari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwangmoyang&theme=merko&show_icons=true)
 ####  :wave: Welcome my github profile !
 
   
