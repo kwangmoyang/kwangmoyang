@@ -5,6 +5,12 @@
 ![Hikari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwangmoyang&theme=merko&show_icons=true)
 ####  :wave: Welcome my github profile !
 
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
   
  <br/>
  <br/>
@@ -30,11 +36,7 @@
 
 
  
-#### :pencil2: Study log
- 
-  <br/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kwangmoyang&layout=compact)](https://github.com/kwangmoyang/github-readme-stats)
+
 
 </div>
 
