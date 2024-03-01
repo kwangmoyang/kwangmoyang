@@ -1,10 +1,13 @@
 ![hikarigit](https://github.com/kwangmoyang/kwangmoyang/assets/100852794/71ca0b6f-291e-4990-9137-abb662469ad1)
  <br/>
  <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwangmoyang&theme=radical&show_icons=true)
-<div align="center"> 
+![Hikari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwangmoyang&theme=radical&show_icons=true)
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<div align="center"> 
+
+
 ####  :wave: Welcome my github profile !
 
   
