@@ -1,13 +1,13 @@
-
+![hikarigit](https://github.com/kwangmoyang/kwangmoyang/assets/100852794/71ca0b6f-291e-4990-9137-abb662469ad1)
 
 <div align="center"> 
-![hikarigit](https://github.com/kwangmoyang/kwangmoyang/assets/100852794/71ca0b6f-291e-4990-9137-abb662469ad1)
+
 ####  :wave: Welcome my github profile !
 
   
  <br/>
  <br/>
-  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=highcontrast_icons=true) 
 ####  :clipboard: Once I've Used 
   
  <br/>
@@ -33,5 +33,5 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@kwangmoyang)
 </div>
