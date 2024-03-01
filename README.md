@@ -3,7 +3,6 @@
  <br/>
 ![Hikari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kwangmoyang&theme=radical&show_icons=true)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <div align="center"> 
 
