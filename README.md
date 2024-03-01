@@ -14,7 +14,7 @@
   
  <br/>
  <br/>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=kwangmoyang&theme=flat&column=7)](https://github.com/kwangmoyang/)
+
 ####  :clipboard: Once I've Used 
   
  <br/>
@@ -41,3 +41,4 @@
 </div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kwangmoyang&theme=flat&column=7)](https://github.com/kwangmoyang/)
